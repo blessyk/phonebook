@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000/contacts';
+const API_URL = 'https://698d6e10b79d1c928ed54802.mockapi.io/contacts';
 let currentPage = 1;
 const limit = 5;
 let totalPages = 1;
